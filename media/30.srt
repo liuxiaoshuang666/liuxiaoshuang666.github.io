@@ -1,0 +1,57 @@
+1
+00:00:00,000 --> 00:00:04,604
+Here's an example from also a
+few years ago from an MIT lab.
+
+2
+00:00:04,604 --> 00:00:07,841
+This is Neri Oxman's lab, and
+she's in the Mediated Matter
+
+3
+00:00:07,841 --> 00:00:12,379
+lab here at MIT, and she's
+developed a 3D printer.
+
+4
+00:00:12,379 --> 00:00:13,046
+[VIDEO PLAYBACK]
+
+5
+00:00:13,046 --> 00:00:14,848
+[MUSIC PLAYBACK]
+
+6
+00:00:14,848 --> 00:00:19,853
+And so there it is printing
+something with glass.
+
+7
+00:00:19,853 --> 00:00:23,523
+And she can print lots of
+different designs now using
+
+8
+00:00:23,523 --> 00:00:24,224
+glass.
+
+9
+00:00:24,224 --> 00:00:26,559
+She has a cool video.
+
+10
+00:00:26,559 --> 00:00:28,294
+And there is the printhead.
+
+11
+00:00:35,735 --> 00:01:10,837
+And again, 1,900 Fahrenheit.
+
+12
+00:01:10,837 --> 00:01:13,773
+I'm not sure that I
+want a 1,900 Fahrenheit
+
+13
+00:01:13,773 --> 00:01:16,875
+printer on my desktop.

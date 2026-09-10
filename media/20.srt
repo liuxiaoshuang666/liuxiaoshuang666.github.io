@@ -1,0 +1,108 @@
+1
+00:00:00,000 --> 00:00:02,302
+Let's look at Na2O.
+
+2
+00:00:02,302 --> 00:00:08,675
+Na2O is going to
+go 2Na+ plus O2-.
+
+3
+00:00:08,675 --> 00:00:09,676
+How about alumina?
+
+4
+00:00:09,676 --> 00:00:13,079
+That's on there, Al2O3.
+
+5
+00:00:13,079 --> 00:00:22,255
+Well, that's going to
+go to 2Al3+ plus 3O2-.
+
+6
+00:00:22,255 --> 00:00:25,158
+Notice a pattern.
+
+7
+00:00:25,158 --> 00:00:26,960
+The pattern is you get O2-.
+
+8
+00:00:32,232 --> 00:00:35,201
+We can understand
+why O2- minus has
+
+9
+00:00:35,201 --> 00:00:38,638
+been used, why
+chemistry has been
+
+10
+00:00:38,638 --> 00:00:44,344
+used to change the properties
+of glass for millennia.
+
+11
+00:00:44,344 --> 00:00:47,680
+And the reason goes
+back to the pictures
+
+12
+00:00:47,680 --> 00:00:50,050
+that we drew on Monday
+where we started
+
+13
+00:00:50,050 --> 00:00:53,887
+by talking about the chemistry
+of the silicate group.
+
+14
+00:00:53,887 --> 00:00:56,356
+So remember Si?
+
+15
+00:00:56,356 --> 00:00:58,158
+Remember this?
+
+16
+00:00:58,158 --> 00:01:04,264
+An SiO4 is happy if it's
+got four minus charges.
+
+17
+00:01:04,264 --> 00:01:06,733
+Remember that?
+
+18
+00:01:06,733 --> 00:01:09,502
+We started with Lewis and
+it satisfies the octet.
+
+19
+00:01:09,502 --> 00:01:12,906
+But then in glass what
+happens is you bridge.
+
+20
+00:01:12,906 --> 00:01:15,075
+And so you have this.
+
+21
+00:01:15,075 --> 00:01:17,477
+And I won't draw all of them.
+
+22
+00:01:17,477 --> 00:01:19,913
+I'll just draw it the
+way we drew it before.
+
+23
+00:01:22,715 --> 00:01:25,919
+And you have these bridges,
+and all of these oxygens
+
+24
+00:01:25,919 --> 00:01:31,524
+are bridges in glass.

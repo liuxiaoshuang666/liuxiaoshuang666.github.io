@@ -1,0 +1,156 @@
+1
+00:00:00,000 --> 00:00:03,537
+But as you can imagine,
+what they had to do--
+
+2
+00:00:03,537 --> 00:00:05,873
+I'll just give you one more
+example and then we'll stop.
+
+3
+00:00:05,873 --> 00:00:07,708
+What they had to do is
+understand everything
+
+4
+00:00:07,708 --> 00:00:08,709
+we've just talked about.
+
+5
+00:00:08,709 --> 00:00:11,278
+How do you engineer the
+viscosity, the melting point
+
+6
+00:00:11,278 --> 00:00:13,514
+to make it all work
+in a 3D printer?
+
+7
+00:00:13,514 --> 00:00:15,149
+The last point I'll
+give you is this.
+
+8
+00:00:15,149 --> 00:00:15,816
+I love this.
+
+9
+00:00:15,816 --> 00:00:17,151
+This is from a few years ago.
+
+10
+00:00:17,151 --> 00:00:20,054
+It's a group in Japan
+that made a glass that
+
+11
+00:00:20,054 --> 00:00:23,390
+is as strong as steel.
+
+12
+00:00:23,390 --> 00:00:25,359
+And what they talk about--
+this is what I like.
+
+13
+00:00:25,359 --> 00:00:27,928
+They say just think of a world
+where your smartphone wouldn't
+
+14
+00:00:27,928 --> 00:00:28,429
+shatter.
+
+15
+00:00:28,429 --> 00:00:30,264
+OK, cool.
+
+16
+00:00:30,264 --> 00:00:33,200
+Buildings could be bolstered
+against natural disasters, even
+
+17
+00:00:33,200 --> 00:00:33,901
+cooler.
+
+18
+00:00:33,901 --> 00:00:35,536
+And then somehow
+they bring it down.
+
+19
+00:00:35,536 --> 00:00:37,571
+Wine glasses are
+reassuringly safe.
+
+20
+00:00:37,571 --> 00:00:39,340
+[LAUGHTER]
+
+21
+00:00:39,340 --> 00:00:41,108
+Was that really a problem?
+
+22
+00:00:41,108 --> 00:00:42,843
+I don't know.
+
+23
+00:00:42,843 --> 00:00:45,646
+And what they did,
+fabrication was
+
+24
+00:00:45,646 --> 00:00:48,616
+conducted using an aerodynamic
+levitation furnace where
+
+25
+00:00:48,616 --> 00:00:51,385
+ingredients were floated
+in the air using oxygen gas
+
+26
+00:00:51,385 --> 00:00:54,154
+and melted together
+using CO2 lasers,
+
+27
+00:00:54,154 --> 00:00:57,091
+and they get a transparent
+superglass with 50% alumina.
+
+28
+00:00:57,091 --> 00:01:01,095
+That was so hard to do
+because the aluminum didn't
+
+29
+00:01:01,095 --> 00:01:02,363
+want to be a glass.
+
+30
+00:01:02,363 --> 00:01:06,700
+It wanted to go and
+become a metal, a crystal.
+
+31
+00:01:06,700 --> 00:01:08,168
+But by doing it
+this way, they were
+
+32
+00:01:08,168 --> 00:01:11,472
+able to capture it
+in the disorder.
+
+33
+00:01:11,472 --> 00:01:12,706
+All right, have a great night.
+
+34
+00:01:12,706 --> 00:01:14,608
+See you guys on Friday.

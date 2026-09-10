@@ -1,0 +1,163 @@
+1
+00:00:00,000 --> 00:00:03,504
+And then the thing
+that I put in there--
+
+2
+00:00:03,504 --> 00:00:06,373
+the thing that I put in there
+that modified the network
+
+3
+00:00:06,373 --> 00:00:08,342
+is called the network modifier.
+
+4
+00:00:08,342 --> 00:00:13,047
+So you can see on this
+graph that what you've got
+
+5
+00:00:13,047 --> 00:00:17,218
+is your bridging,
+the bridging there
+
+6
+00:00:17,218 --> 00:00:20,421
+that's going between
+two network formers.
+
+7
+00:00:20,421 --> 00:00:23,958
+And then you've got
+these atoms that
+
+8
+00:00:23,958 --> 00:00:27,561
+are hanging out near a place
+where you've broken a bridge.
+
+9
+00:00:27,561 --> 00:00:29,130
+So those would be modifiers.
+
+10
+00:00:29,130 --> 00:00:30,598
+Those are called
+network modifiers.
+
+11
+00:00:30,598 --> 00:00:33,667
+These are just terms that
+you will hear and see
+
+12
+00:00:33,667 --> 00:00:36,704
+when you think about glass--
+
+13
+00:00:36,704 --> 00:00:39,373
+network formers,
+network modifiers.
+
+14
+00:00:39,373 --> 00:00:41,909
+The chemistry that you introduce
+is modifying the network,
+
+15
+00:00:41,909 --> 00:00:45,613
+and it's what is done in
+many, many different ways
+
+16
+00:00:45,613 --> 00:00:47,882
+with many, many
+different [INAUDIBLE]
+
+17
+00:00:47,882 --> 00:00:50,451
+to change the
+properties of glass.
+
+18
+00:00:50,451 --> 00:00:52,153
+And so here's the
+curve that shows
+
+19
+00:00:52,153 --> 00:00:56,090
+you another kind of important
+way of looking at this.
+
+20
+00:00:56,090 --> 00:00:58,392
+And I don't need you to
+remember all of these terms,
+
+21
+00:00:58,392 --> 00:00:59,860
+but I want to show
+you because this
+
+22
+00:00:59,860 --> 00:01:01,829
+is how glass is engineered.
+
+23
+00:01:01,829 --> 00:01:06,066
+Remember, today the topic is
+how do we change the properties?
+
+24
+00:01:06,066 --> 00:01:07,434
+We talked about
+the cooling rate.
+
+25
+00:01:07,434 --> 00:01:10,604
+Now we're talking
+about adding chemicals.
+
+26
+00:01:10,604 --> 00:01:13,440
+And so now you're going
+to work with the glass
+
+27
+00:01:13,440 --> 00:01:15,976
+to do something with it.
+
+28
+00:01:15,976 --> 00:01:18,379
+If you're going to do that,
+this is one of the first plots
+
+29
+00:01:18,379 --> 00:01:20,648
+you'll look up.
+
+30
+00:01:20,648 --> 00:01:22,650
+And it shows you-- it
+plots the temperature.
+
+31
+00:01:22,650 --> 00:01:25,419
+This really doesn't
+work at all--
+
+32
+00:01:25,419 --> 00:01:28,155
+the temperature on one axis--
+so that's like the x-axis--
+
+33
+00:01:28,155 --> 00:01:30,124
+and on the y-axis is the
+viscosity because now
+
+34
+00:01:30,124 --> 00:01:32,726
+that's the property that we're
+changing, right, the viscosity?

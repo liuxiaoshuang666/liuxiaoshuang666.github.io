@@ -1,0 +1,189 @@
+1
+00:00:00,000 --> 00:00:02,436
+The resulting what?
+
+2
+00:00:02,436 --> 00:00:05,439
+What was he going to say?
+
+3
+00:00:05,439 --> 00:00:07,040
+I don't know actually.
+
+4
+00:00:07,040 --> 00:00:07,774
+I don't remember.
+
+5
+00:00:07,774 --> 00:00:10,043
+I have to go watch it now.
+
+6
+00:00:10,043 --> 00:00:11,578
+So that's just a
+video showing you
+
+7
+00:00:11,578 --> 00:00:13,580
+what I just showed you,
+which is that that's yet
+
+8
+00:00:13,580 --> 00:00:17,084
+another way of engineering
+the properties of glass,
+
+9
+00:00:17,084 --> 00:00:18,919
+and there are so many more.
+
+10
+00:00:21,021 --> 00:00:22,622
+One of the points I
+want to make today
+
+11
+00:00:22,622 --> 00:00:24,257
+about how to engineer
+glass-- so we're talking
+
+12
+00:00:24,257 --> 00:00:25,759
+about how to change this curve.
+
+13
+00:00:25,759 --> 00:00:28,795
+Maybe we change the
+viscosity by adding O2
+
+14
+00:00:28,795 --> 00:00:31,965
+which changes the curve here.
+
+15
+00:00:31,965 --> 00:00:33,333
+Maybe we change
+the cooling rate.
+
+16
+00:00:37,170 --> 00:00:40,974
+Maybe I can use additives,
+ions in different ways.
+
+17
+00:00:40,974 --> 00:00:42,476
+But it turns out
+that we have come
+
+18
+00:00:42,476 --> 00:00:45,245
+to a place where we can
+engineer every single one
+
+19
+00:00:45,245 --> 00:00:46,713
+of these properties.
+
+20
+00:00:46,713 --> 00:00:49,583
+We can make conducting glass,
+even though it's usually
+
+21
+00:00:49,583 --> 00:00:52,753
+been and usually is insulating.
+
+22
+00:00:52,753 --> 00:00:55,455
+We can make chemically
+active glass.
+
+23
+00:00:55,455 --> 00:00:59,159
+As you just saw, we can change
+the mechanical properties.
+
+24
+00:00:59,159 --> 00:01:01,762
+There are now flexible
+rolls of glass
+
+25
+00:01:01,762 --> 00:01:04,498
+that look literally like Saran
+wrap almost, but they're glass.
+
+26
+00:01:07,534 --> 00:01:09,636
+And so it all comes
+down to the pasta.
+
+27
+00:01:09,636 --> 00:01:12,706
+And so where we are, if
+we use the pasta analogy--
+
+28
+00:01:12,706 --> 00:01:16,176
+which as you, I think, can
+understand I really like
+
+29
+00:01:16,176 --> 00:01:19,346
+because I really like pasta.
+
+30
+00:01:19,346 --> 00:01:21,214
+This is a great
+analogy for glass
+
+31
+00:01:21,214 --> 00:01:25,218
+because it's like
+in the Roman time,
+
+32
+00:01:25,218 --> 00:01:28,555
+all we had was one
+sauce, everything.
+
+33
+00:01:28,555 --> 00:01:30,357
+Just mix it all in--
+
+34
+00:01:30,357 --> 00:01:35,996
+meatballs, pesto,
+red sauce, carbonara.
+
+35
+00:01:35,996 --> 00:01:38,398
+I can go on.
+
+36
+00:01:38,398 --> 00:01:39,399
+And that's all they did.
+
+37
+00:01:39,399 --> 00:01:41,735
+They just didn't know why
+things were happening.
+
+38
+00:01:41,735 --> 00:01:45,472
+But now that we know about the
+electronic structure of atoms,
+
+39
+00:01:45,472 --> 00:01:51,478
+we can make glass into any
+delicious pasta dish we want,
+
+40
+00:01:51,478 --> 00:01:52,913
+right?
+
+41
+00:01:52,913 --> 00:01:55,848
+OK, don't eat it, but
+you know what I mean.

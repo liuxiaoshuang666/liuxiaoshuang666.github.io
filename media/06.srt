@@ -1,0 +1,148 @@
+1
+00:00:00,000 --> 00:00:08,409
+You see, remember, the slope is
+equal to the thermal expansion
+
+2
+00:00:08,409 --> 00:00:11,712
+coefficient--
+
+3
+00:00:11,712 --> 00:00:15,015
+thermal expansion coefficient.
+
+4
+00:00:15,015 --> 00:00:18,385
+And those slopes are the same
+for the different glasses.
+
+5
+00:00:18,385 --> 00:00:21,321
+Just because I've
+cooled one differently,
+
+6
+00:00:21,321 --> 00:00:23,123
+they're not going to
+have different slopes.
+
+7
+00:00:23,123 --> 00:00:26,026
+And this is the
+fundamental challenge.
+
+8
+00:00:26,026 --> 00:00:27,761
+This is the fundamental
+confusion point
+
+9
+00:00:27,761 --> 00:00:31,799
+that happens which is
+that this is not time.
+
+10
+00:00:31,799 --> 00:00:35,302
+This axis is not time.
+
+11
+00:00:39,707 --> 00:00:41,575
+So this is wrong to.
+
+12
+00:00:41,575 --> 00:00:44,878
+What we're doing is we're
+talking about something
+
+13
+00:00:44,878 --> 00:00:47,648
+involving time, cooling rate.
+
+14
+00:00:47,648 --> 00:00:49,883
+But we're plotting
+it on something
+
+15
+00:00:49,883 --> 00:00:52,553
+that doesn't involve time, and
+that can lead to confusion.
+
+16
+00:00:52,553 --> 00:00:53,921
+So I wanted to point that out.
+
+17
+00:00:53,921 --> 00:00:55,355
+You say, well,
+shouldn't the slope
+
+18
+00:00:55,355 --> 00:00:58,125
+be different because you're
+cooling it slower or faster?
+
+19
+00:00:58,125 --> 00:01:00,060
+No, that's not
+what this slope is.
+
+20
+00:01:00,060 --> 00:01:02,429
+This slope is a thermal
+expansion coefficient.
+
+21
+00:01:02,429 --> 00:01:06,600
+So the right answer
+to this must be
+
+22
+00:01:06,600 --> 00:01:13,707
+that you have your
+nice liquid phase
+
+23
+00:01:13,707 --> 00:01:16,844
+and you've made
+your two glasses.
+
+24
+00:01:16,844 --> 00:01:19,480
+So here's one.
+
+25
+00:01:19,480 --> 00:01:22,850
+This has cooled faster.
+
+26
+00:01:22,850 --> 00:01:23,484
+This is slower.
+
+27
+00:01:27,421 --> 00:01:29,356
+This would be Tg.
+
+28
+00:01:29,356 --> 00:01:34,528
+This would be another
+Tg, maybe Tg1, Tg2.
+
+29
+00:01:34,528 --> 00:01:41,201
+And the Tm would
+come down and have--
+
+30
+00:01:41,201 --> 00:01:44,638
+well, I've run out
+of room here, but Tm
+
+31
+00:01:44,638 --> 00:01:46,573
+might come down like this.
+
+32
+00:01:46,573 --> 00:01:49,543
+And so T1 must be
+somewhere up here.

@@ -1,0 +1,167 @@
+1
+00:00:00,150 --> 00:00:02,853
+That would be a correct
+plot for that question.
+
+2
+00:00:02,853 --> 00:00:03,787
+So does everybody see?
+
+3
+00:00:03,787 --> 00:00:06,957
+I just want you to get
+a feeling for this plot.
+
+4
+00:00:06,957 --> 00:00:08,859
+We introduced it
+Monday, and I really
+
+5
+00:00:08,859 --> 00:00:12,629
+want you to feel your
+oneness with this plot
+
+6
+00:00:12,629 --> 00:00:14,064
+because it's a
+very important plot
+
+7
+00:00:14,064 --> 00:00:17,668
+to understand why glasses form.
+
+8
+00:00:17,668 --> 00:00:22,573
+All right, now
+moving on, there's
+
+9
+00:00:22,573 --> 00:00:25,042
+a lot of properties of
+glasses, and here I'm
+
+10
+00:00:25,042 --> 00:00:26,910
+talking about oxide
+glasses, so silica.
+
+11
+00:00:26,910 --> 00:00:31,949
+Remember, silicon oxide,
+oxide, silica, alumina.
+
+12
+00:00:31,949 --> 00:00:35,085
+These are, oh, oxide.
+
+13
+00:00:35,085 --> 00:00:36,386
+We talked about that.
+
+14
+00:00:36,386 --> 00:00:38,288
+Chemically inert,
+electrically insulating,
+
+15
+00:00:38,288 --> 00:00:40,524
+mechanically brittle,
+optically transparent,
+
+16
+00:00:40,524 --> 00:00:42,893
+visually arresting--
+
+17
+00:00:42,893 --> 00:00:44,895
+I like that one--
+
+18
+00:00:44,895 --> 00:00:48,131
+these are the
+properties that we know
+
+19
+00:00:48,131 --> 00:00:49,967
+about these kinds of glasses.
+
+20
+00:00:49,967 --> 00:00:50,834
+We already know them.
+
+21
+00:00:50,834 --> 00:00:52,302
+But what I want to
+talk about today
+
+22
+00:00:52,302 --> 00:00:55,672
+is how they can be engineered.
+
+23
+00:00:55,672 --> 00:01:01,345
+And this plot is a basis
+for understanding that.
+
+24
+00:01:01,345 --> 00:01:05,916
+And so is spaghetti, and that's
+what we're going to talk about.
+
+25
+00:01:05,916 --> 00:01:08,285
+So the very first one--
+which we'll set up
+
+26
+00:01:08,285 --> 00:01:10,454
+our demo in just a few minutes.
+
+27
+00:01:10,454 --> 00:01:13,023
+The very first one that
+I want to talk about
+
+28
+00:01:13,023 --> 00:01:14,358
+is the mechanical properties.
+
+29
+00:01:14,358 --> 00:01:16,994
+We know glass to
+be very brittle,
+
+30
+00:01:16,994 --> 00:01:19,296
+but could we change its
+mechanical properties?
+
+31
+00:01:19,296 --> 00:01:22,733
+Could we do something about
+the mechanical properties?
+
+32
+00:01:22,733 --> 00:01:25,569
+And by the way, if those
+are the things that
+
+33
+00:01:25,569 --> 00:01:27,371
+dictate whether a
+glass forms or not,
+
+34
+00:01:27,371 --> 00:01:29,139
+then those are the
+things that you
+
+35
+00:01:29,139 --> 00:01:32,242
+might think we might try to
+engineer if we want to change
+
+36
+00:01:32,242 --> 00:01:33,577
+the properties of glass.

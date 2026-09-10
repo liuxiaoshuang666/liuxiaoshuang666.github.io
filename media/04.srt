@@ -1,0 +1,110 @@
+1
+00:00:00,000 --> 00:00:03,136
+So, OK, two glasses
+forming liquids.
+
+2
+00:00:03,136 --> 00:00:03,971
+One glass is formed.
+
+3
+00:00:03,971 --> 00:00:06,940
+Plot the molar volume
+versus temperature.
+
+4
+00:00:06,940 --> 00:00:09,243
+All right, so now, let's see.
+
+5
+00:00:09,243 --> 00:00:10,277
+How about this?
+
+6
+00:00:10,277 --> 00:00:15,249
+Could this be the volume
+per mole versus temperature?
+
+7
+00:00:15,249 --> 00:00:16,750
+So I'm going to try it out here.
+
+8
+00:00:16,750 --> 00:00:18,018
+I'm going to go like this.
+
+9
+00:00:18,018 --> 00:00:23,090
+I'm going to go like this, and
+that looks like the liquid,
+
+10
+00:00:23,090 --> 00:00:24,791
+maybe.
+
+11
+00:00:24,791 --> 00:00:29,663
+And then I'm going to go
+like this and maybe this,
+
+12
+00:00:29,663 --> 00:00:33,400
+and we'll call that T1.
+
+13
+00:00:33,400 --> 00:00:36,637
+Does that look right?
+
+14
+00:00:36,637 --> 00:00:40,140
+No, this can't be right.
+
+15
+00:00:40,140 --> 00:00:44,678
+This can't be right because,
+you see, I said that T1,
+
+16
+00:00:44,678 --> 00:00:49,683
+this is a glass transition.
+
+17
+00:00:49,683 --> 00:00:50,951
+That's a glass transition.
+
+18
+00:00:50,951 --> 00:00:53,153
+That's a Tg.
+
+19
+00:00:53,153 --> 00:00:54,988
+That's another Tg.
+
+20
+00:00:54,988 --> 00:01:00,627
+But I've said in the question
+T1 is greater than Tm.
+
+21
+00:01:00,627 --> 00:01:02,262
+T1 is greater than Tm.
+
+22
+00:01:02,262 --> 00:01:07,634
+Well, so this can't be true
+because Tm has to be out here.
+
+23
+00:01:07,634 --> 00:01:10,871
+Tm is out here where there's
+a different transition that
+
+24
+00:01:10,871 --> 00:01:13,573
+occurs, and it turns
+into a crystal.
+
+25
+00:01:13,573 --> 00:01:17,878
+So this couldn't be
+right, T1 greater than Tm.

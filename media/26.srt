@@ -1,0 +1,156 @@
+1
+00:00:00,150 --> 00:00:01,952
+And so this curve
+now is something
+
+2
+00:00:01,952 --> 00:00:05,455
+that we understand and we
+understand how to control it.
+
+3
+00:00:05,455 --> 00:00:13,163
+And if you go back to the
+example of making glass tough,
+
+4
+00:00:13,163 --> 00:00:17,534
+I was just showing you these
+ions, these sodium ions.
+
+5
+00:00:17,534 --> 00:00:19,069
+They're left in there.
+
+6
+00:00:19,069 --> 00:00:23,807
+Well, it turns out that you
+can put ions into glass,
+
+7
+00:00:23,807 --> 00:00:26,810
+and maybe you're doing it
+to change the viscosity
+
+8
+00:00:26,810 --> 00:00:29,513
+so the thing stays
+liquid for longer,
+
+9
+00:00:29,513 --> 00:00:33,250
+and you can maybe work with
+it in different regimes.
+
+10
+00:00:33,250 --> 00:00:35,018
+But maybe you're putting
+the ions in there
+
+11
+00:00:35,018 --> 00:00:38,288
+to do something else.
+
+12
+00:00:38,288 --> 00:00:41,858
+And so actually there's
+a whole another thing
+
+13
+00:00:41,858 --> 00:00:46,530
+you can do once you have ions
+in the glass like sodium.
+
+14
+00:00:46,530 --> 00:00:49,499
+You can substitute them out.
+
+15
+00:00:49,499 --> 00:00:52,135
+Imagine that I
+have-- that's what
+
+16
+00:00:52,135 --> 00:00:53,503
+this next picture is showing.
+
+17
+00:00:53,503 --> 00:00:57,174
+Imagine that I've
+got a glass in here,
+
+18
+00:00:57,174 --> 00:01:00,510
+and those red
+circles are sodium.
+
+19
+00:01:00,510 --> 00:01:03,780
+But now I've introduced a
+different ion on the surface.
+
+20
+00:01:03,780 --> 00:01:05,782
+That's potassium.
+
+21
+00:01:05,782 --> 00:01:06,516
+What happens?
+
+22
+00:01:06,516 --> 00:01:09,786
+Well, if I have a high
+concentration of potassium
+
+23
+00:01:09,786 --> 00:01:11,621
+and I put it on a
+surface of glass that
+
+24
+00:01:11,621 --> 00:01:14,257
+has a bunch of
+sodium in it, so now
+
+25
+00:01:14,257 --> 00:01:18,929
+I've got a glass with
+sodium ions in it.
+
+26
+00:01:18,929 --> 00:01:24,835
+And I expose it to
+a potassium bath.
+
+27
+00:01:24,835 --> 00:01:29,005
+So now I've got
+potassium up here.
+
+28
+00:01:29,005 --> 00:01:32,442
+And what happens is if the
+concentration is high enough
+
+29
+00:01:32,442 --> 00:01:34,711
+and the conditions are
+right, I can get potassium
+
+30
+00:01:34,711 --> 00:01:38,215
+to go in for the sodium.
+
+31
+00:01:38,215 --> 00:01:41,284
+And so actually now
+I can substitute.
+
+32
+00:01:41,284 --> 00:01:43,453
+So these were here.
+
+33
+00:01:43,453 --> 00:01:46,957
+I can now substitute
+those for potassium.

@@ -1,0 +1,133 @@
+1
+00:00:00,150 --> 00:00:01,318
+So what about another one?
+
+2
+00:00:01,318 --> 00:00:02,886
+Let's try another one.
+
+3
+00:00:02,886 --> 00:00:04,421
+So how about if I--
+
+4
+00:00:04,421 --> 00:00:07,091
+OK, volume per mole.
+
+5
+00:00:07,091 --> 00:00:08,892
+Now I'm going to go like this.
+
+6
+00:00:08,892 --> 00:00:10,794
+So I'm going to go like this.
+
+7
+00:00:14,598 --> 00:00:20,104
+So now here comes one,
+and here comes the other.
+
+8
+00:00:23,474 --> 00:00:29,380
+And OK, so I'm going
+to put now T1 maybe--
+
+9
+00:00:29,380 --> 00:00:36,687
+let's try T1 is going to be
+out here, and Tm would be--
+
+10
+00:00:36,687 --> 00:00:38,355
+actually, let me
+do it differently.
+
+11
+00:00:38,355 --> 00:00:39,223
+Sorry.
+
+12
+00:00:39,223 --> 00:00:42,326
+I'm going to go like this.
+
+13
+00:00:42,326 --> 00:00:47,931
+I'll just connect-- how
+do I want to do this?
+
+14
+00:00:47,931 --> 00:00:50,067
+I want it to join
+these up there.
+
+15
+00:00:50,067 --> 00:00:52,603
+Yeah, that's another
+good mistake.
+
+16
+00:00:52,603 --> 00:00:54,605
+I'm making mistakes on purpose.
+
+17
+00:00:57,207 --> 00:01:00,044
+And let's make T1 be out here.
+
+18
+00:01:00,044 --> 00:01:04,515
+So T1 is here, and then
+Tm could still be there.
+
+19
+00:01:04,515 --> 00:01:06,684
+This could be Tm.
+
+20
+00:01:06,684 --> 00:01:09,720
+And then maybe is that right?
+
+21
+00:01:09,720 --> 00:01:11,588
+Is that a possible curve?
+
+22
+00:01:11,588 --> 00:01:14,458
+Well, that fixed
+the T1-Tm problem
+
+23
+00:01:14,458 --> 00:01:19,063
+because T1 is now greater than
+Tm like I said in the question,
+
+24
+00:01:19,063 --> 00:01:21,999
+but what is going on here?
+
+25
+00:01:21,999 --> 00:01:23,333
+What is going on?
+
+26
+00:01:23,333 --> 00:01:27,304
+You say, well, but I cooled
+one faster than the other.
+
+27
+00:01:27,304 --> 00:01:29,173
+Isn't that kind of
+what's happening here?
+
+28
+00:01:29,173 --> 00:01:32,409
+Maybe I started
+changing the curve?
+
+29
+00:01:32,409 --> 00:01:33,277
+No.
+
+30
+00:01:33,277 --> 00:01:37,046
+That's not what this is,
+so don't make that mistake.

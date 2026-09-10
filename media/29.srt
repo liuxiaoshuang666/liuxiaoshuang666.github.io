@@ -1,0 +1,204 @@
+1
+00:00:00,000 --> 00:00:02,202
+And so I'll give you
+a couple of examples.
+
+2
+00:00:02,202 --> 00:00:04,037
+So the point is the
+last 20 centuries,
+
+3
+00:00:04,037 --> 00:00:05,772
+we were really just
+getting warmed up
+
+4
+00:00:05,772 --> 00:00:07,074
+when it comes to this material.
+
+5
+00:00:11,745 --> 00:00:15,182
+What the recent understanding
+of how to engineer this material
+
+6
+00:00:15,182 --> 00:00:18,452
+has led to are real
+breakthrough ideas.
+
+7
+00:00:18,452 --> 00:00:22,789
+And so I'll show you just a
+couple in my why this matters.
+
+8
+00:00:22,789 --> 00:00:25,459
+Because glass is, after
+all, made of-- there
+
+9
+00:00:25,459 --> 00:00:27,127
+it is up there in
+case you can't see it.
+
+10
+00:00:27,127 --> 00:00:31,732
+This is the abundance of
+elements versus atomic number,
+
+11
+00:00:31,732 --> 00:00:34,034
+and you notice the
+very top two elements
+
+12
+00:00:34,034 --> 00:00:39,773
+are silicon and oxygen. And so
+it would be really nice if we
+
+13
+00:00:39,773 --> 00:00:41,908
+could make a lot of
+stuff out of these really
+
+14
+00:00:41,908 --> 00:00:43,277
+abundant cheap elements.
+
+15
+00:00:43,277 --> 00:00:45,679
+Think sand.
+
+16
+00:00:45,679 --> 00:00:49,683
+Could I take sand and make
+a lot of stuff out of it?
+
+17
+00:00:49,683 --> 00:00:51,485
+Well, not if I can't control.
+
+18
+00:00:51,485 --> 00:00:56,290
+Not if I have to heat it up to
+3,000 degrees or its viscosity
+
+19
+00:00:56,290 --> 00:00:58,859
+isn't what I want or it doesn't
+give me the properties I want,
+
+20
+00:00:58,859 --> 00:01:00,827
+but that has changed.
+
+21
+00:01:00,827 --> 00:01:03,363
+That has fundamentally changed.
+
+22
+00:01:03,363 --> 00:01:05,499
+So we can now look at
+materials like this,
+
+23
+00:01:05,499 --> 00:01:07,734
+these super-abundant materials,
+and we can completely
+
+24
+00:01:07,734 --> 00:01:08,335
+rethink them.
+
+25
+00:01:08,335 --> 00:01:09,936
+And I'll give you one example.
+
+26
+00:01:09,936 --> 00:01:11,405
+It's already a few
+years old, but I
+
+27
+00:01:11,405 --> 00:01:14,574
+think it's just a
+really cool idea, which
+
+28
+00:01:14,574 --> 00:01:16,376
+is called the Solar Sinter.
+
+29
+00:01:16,376 --> 00:01:19,313
+And here he's
+developed this machine
+
+30
+00:01:19,313 --> 00:01:21,348
+that is entirely solar powered.
+
+31
+00:01:21,348 --> 00:01:23,417
+They're solar cells
+for the electricity.
+
+32
+00:01:23,417 --> 00:01:28,121
+And it's a focused beam
+of light from the sun that
+
+33
+00:01:28,121 --> 00:01:31,024
+gets hot enough to
+engineer the glass.
+
+34
+00:01:31,024 --> 00:01:34,027
+So he takes sand from
+the desert that he's in.
+
+35
+00:01:34,027 --> 00:01:36,930
+He puts it in a container,
+and he's got a 3D printer
+
+36
+00:01:36,930 --> 00:01:38,098
+that he's made.
+
+37
+00:01:38,098 --> 00:01:40,000
+It's entirely solar powered.
+
+38
+00:01:40,000 --> 00:01:44,204
+There's no fossil fuels, but
+he can take sand and turn it
+
+39
+00:01:44,204 --> 00:01:47,074
+into something structural.
+
+40
+00:01:47,074 --> 00:01:49,676
+And so there's a
+vase that he's made,
+
+41
+00:01:49,676 --> 00:01:51,178
+and you can take that out.
+
+42
+00:01:51,178 --> 00:01:52,879
+And again, that's
+just the beginning
+
+43
+00:01:52,879 --> 00:01:55,515
+of rethinking what we could
+do with these super-abundant
+
+44
+00:01:55,515 --> 00:01:56,349
+materials.

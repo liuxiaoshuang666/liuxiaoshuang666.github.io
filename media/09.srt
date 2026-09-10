@@ -1,0 +1,115 @@
+1
+00:00:00,000 --> 00:00:01,935
+So let's just have
+this in our hands
+
+2
+00:00:01,935 --> 00:00:04,704
+while we're listening and
+thinking about things,
+
+3
+00:00:04,704 --> 00:00:09,376
+and let me just tell
+you about this one way--
+
+4
+00:00:09,376 --> 00:00:11,311
+if I take a piece of glass--
+
+5
+00:00:11,311 --> 00:00:15,515
+if I take a piece of
+glass, and now imagine
+
+6
+00:00:15,515 --> 00:00:18,451
+that I take some part of
+it, like this part here.
+
+7
+00:00:21,221 --> 00:00:27,594
+And in this part I'm
+going to cool faster,
+
+8
+00:00:27,594 --> 00:00:33,934
+and in this part here
+I'm going to cool slower.
+
+9
+00:00:33,934 --> 00:00:40,974
+So imagine it's a slab of glass,
+and it's like the edges are
+
+10
+00:00:40,974 --> 00:00:43,276
+cooled at a different rate.
+
+11
+00:00:43,276 --> 00:00:45,412
+That's actually exactly
+why a car window,
+
+12
+00:00:45,412 --> 00:00:47,847
+if you look at it through
+polarized glasses,
+
+13
+00:00:47,847 --> 00:00:49,916
+has spots on it.
+
+14
+00:00:49,916 --> 00:00:52,886
+Those spots, some of
+you may have seen these.
+
+15
+00:00:52,886 --> 00:00:57,223
+Those spots are changes,
+purposeful changes
+
+16
+00:00:57,223 --> 00:01:00,727
+in the mechanical properties
+of the glass to keep you safe.
+
+17
+00:01:00,727 --> 00:01:03,563
+Why?
+
+18
+00:01:03,563 --> 00:01:08,735
+If you call it slower, then
+you might have some volume
+
+19
+00:01:08,735 --> 00:01:10,570
+that you want.
+
+20
+00:01:10,570 --> 00:01:17,043
+The volume here, let's call
+this Vb and let's call this Va.
+
+21
+00:01:17,043 --> 00:01:21,715
+That goes along with the
+graph we used before, b and a.
+
+22
+00:01:21,715 --> 00:01:26,586
+So it wants V--
+
+23
+00:01:26,586 --> 00:01:28,121
+what did I do-- b.
+
+24
+00:01:28,121 --> 00:01:29,789
+This wants Va.
+
+25
+00:01:29,789 --> 00:01:30,824
+But look at what happens.

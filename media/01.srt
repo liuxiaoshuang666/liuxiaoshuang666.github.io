@@ -1,0 +1,140 @@
+1
+00:00:00,200 --> 00:00:03,970
+This is a great day.
+
+2
+00:00:03,970 --> 00:00:07,707
+We're having our second
+lecture on glass,
+
+3
+00:00:07,707 --> 00:00:09,909
+and we've got a demo--
+
+4
+00:00:09,909 --> 00:00:12,745
+where did Peter go?
+
+5
+00:00:12,745 --> 00:00:15,915
+So we've got a demo
+coming up for you
+
+6
+00:00:15,915 --> 00:00:19,252
+from the director of the
+glass blowing lab here at MIT.
+
+7
+00:00:22,021 --> 00:00:24,157
+And now before we
+start, I just want
+
+8
+00:00:24,157 --> 00:00:26,759
+to mention, so next Monday--
+
+9
+00:00:26,759 --> 00:00:28,027
+so we're going to talk today--
+
+10
+00:00:28,027 --> 00:00:30,597
+we're going to continue
+what we started, which
+
+11
+00:00:30,597 --> 00:00:33,700
+is the chemistry
+of glass, and we'll
+
+12
+00:00:33,700 --> 00:00:39,539
+talk about that cooling curve or
+the effects of different things
+
+13
+00:00:39,539 --> 00:00:43,109
+on the glass formation
+and then how to engineer
+
+14
+00:00:43,109 --> 00:00:45,378
+the properties of the glass.
+
+15
+00:00:45,378 --> 00:00:49,282
+Before I start, I just want
+to mention that next Monday we
+
+16
+00:00:49,282 --> 00:00:51,084
+have something called
+the Wulff Lecture.
+
+17
+00:00:51,084 --> 00:00:54,854
+And this is a lecture that
+is open to the public.
+
+18
+00:00:54,854 --> 00:00:56,522
+It's geared towards freshmen.
+
+19
+00:00:56,522 --> 00:00:58,625
+It's put on by the Department
+of Materials Science
+
+20
+00:00:58,625 --> 00:01:02,428
+and Engineering every
+year, and it's usually
+
+21
+00:01:02,428 --> 00:01:06,432
+some sort of really interesting,
+exciting topic and usually
+
+22
+00:01:06,432 --> 00:01:08,468
+a very dynamic lecture.
+
+23
+00:01:08,468 --> 00:01:11,304
+And in this case it's one of
+our very own, Sam Shames, who
+
+24
+00:01:11,304 --> 00:01:18,244
+graduated in 2014, and he'll
+be talking about his adventures
+
+25
+00:01:18,244 --> 00:01:21,147
+as a material
+scientist and how he's
+
+26
+00:01:21,147 --> 00:01:26,352
+used that knowledge in his
+life and also in the company
+
+27
+00:01:26,352 --> 00:01:29,088
+that he founded which is now
+selling products in over 70
+
+28
+00:01:29,088 --> 00:01:32,659
+countries around the world.
+
+29
+00:01:32,659 --> 00:01:34,627
+So I think that will
+be a lot of fun.
+
+30
+00:01:34,627 --> 00:01:40,466
+If you can make it, it's next
+Monday from 4:00 to 5:00 PM.
